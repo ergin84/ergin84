@@ -59,6 +59,9 @@ Real-time urban monitoring platform integrating:
 - Emergency management workflows
 - Edge AI inference
 
+Technologies:
+`Kafka` `Redis` `Kubernetes` `Virtuoso` `FastAPI` `Docker`
+
 ---
 
 ## 🏺 ShareLand
@@ -86,10 +89,23 @@ Infrastructure for:
 - Satellite data processing
 - Real-time alerting systems
 
+Technologies:
+`Python` `GeoTIFF` `COG` `PostGIS` `MinIO` `OpenLayers`
+
 ---
 
 ## 🎭 HyperStage
 Frontend and data visualization platform for theatrical productions using Wikibase and SPARQL technologies.
+
+Features:
+- Dynamic search interface
+- Wikibase API integration
+- SPARQL queries
+- Production grouping by year and venue
+- Interactive frontend visualization
+
+Technologies:
+`Next.js` `TypeScript` `Wikibase` `SPARQL` `REST API`
 
 ---
 
@@ -103,8 +119,8 @@ Frontend and data visualization platform for theatrical productions using Wikiba
 
 # 🌍 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- GitHub: https://github.com/ergin84
+- LinkedIn: https://www.linkedin.com/in/ergin-mehmeti/
 
 ---
 
